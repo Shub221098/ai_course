@@ -1,0 +1,7 @@
+property_id,title,city,type,price,bedrooms
+101,Luxury 3 BHK,Surat,Flat,5000000.0,3
+102,2 BHK Flat,Surat,Flat,4500000.0,2
+103,Premium Villa,Mumbai,Villa,12000000.0,4
+104,Affordable 2 BHK,Delhi,Flat,7000000.0,2
+105,Luxury Villa,Unknown,Villa,9000000.0,5
+106,3 BHK Apartment,Surat,Apartment,7000000.0,3
